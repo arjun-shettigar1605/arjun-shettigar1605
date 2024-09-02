@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Arjun Pravin Shettigar<br>👉 Trying to do development :)<br>🌱 I’m currently learning various skills revolving around Web Development, DSA and Machine Learning!<br><br>
+<br>👋 Hi, I’m Arjun Pravin Shettigar<br>👉 Trying to develop :)<br>🌱 I’m currently learning various skills revolving around Web Development, DSA and Machine Learning!<br><br>
 
 
 ## 🌐 Socials:
